@@ -1,0 +1,23 @@
+{
+  "name": "authdeck",
+  "version": "1.0.0",
+  "description": "AuthDeck is an Auth system, it work around a username and card hand <small>(vs the generic username/password)</small>.",
+  "main": "src/run.js",
+  "scripts": {
+    "start": "node src/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Null-Austin/AuthDeck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Null-Austin/AuthDeck/issues"
+  },
+  "homepage": "https://github.com/Null-Austin/AuthDeck#readme",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
